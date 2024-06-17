@@ -1,0 +1,33 @@
+create a git ignore file and add it to the repository
+# Windows
+# Thumbs.db
+#ehthumbs.db
+#Desktop.ini
+
+# Python
+# __pycache__/
+
+# IDE
+# .vscode/
+
+# Misc
+# *.pyc
+# *.pyd
+# *.spec
+# *.egg-info/
+
+# Build
+# *.egg-info/
+# *.egg/
+# dist/
+# build/
+# *.pyo
+# *.pyc
+
+# Python
+# *.pyc
+# *.pyo
+# *.pyd
+# *.so
+# *.dll
+# *.egg-info/   
